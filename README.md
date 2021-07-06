@@ -1,1 +1,1 @@
-adaptive-font
+Explanations inside main.scss
