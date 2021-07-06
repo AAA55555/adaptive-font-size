@@ -1,0 +1,1 @@
+h1{font-size:calc(24px + 16 * ((100vw - 320px)/ 960))}p.one{font-size:calc(12px + 4 * ((100vw - 320px)/ 960))}@media (min-width:960px){p.one{font-size:16px}}p{font-size:calc(12px + 4 * ((100vw - 320px)/ 960))}@media (min-width:960px){p{font-size:16px}}
